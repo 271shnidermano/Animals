@@ -405,6 +405,7 @@ Orang-utan
 Ostrich
 Otter
 Oyster
+Penguin
 Quail
 Quetzal
 Quokka
